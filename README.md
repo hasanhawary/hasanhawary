@@ -61,7 +61,10 @@
 - Created **tour booking engine** with dynamic pricing  
 - Built **multi-currency payment system** (Stripe/Paymob)  
 - Developed **admin dashboard** with real-time analytics  
-- Optimized **SEO performance** for 50K+ monthly visitors  
+- Optimized **SEO performance** for 50K+ monthly visitors
+  
+**Tech Stack**:  
+`Laravel` `MySQL` `JavaScript` `Payment Gateways` `SEO Tools`  
 
 ---
 
