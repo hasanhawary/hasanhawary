@@ -2,7 +2,7 @@
 **Senior Backend Engineer (Laravel/PHP) | BackEnd Team Leader**  
 
 📍 Cairo, Egypt | 📫 [hasanhawary1@gmail.com](mailto:hasanhawary1@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/hassan-hawary1) | [Wuzzuf](https://wuzzuf.net/me/Hassan-Mohamed) | [GitHub](https://github.com/hassanelhawary)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hassan-hawary1) | [Wuzzuf](https://wuzzuf.net/me/Hassan-Mohamed)
 
 ---
 
