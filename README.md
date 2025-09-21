@@ -1,5 +1,3 @@
----
-
 # Hassan Elhawary
 
 **Senior Backend Engineer (Laravel/PHP) | BackEnd Team Leader**
