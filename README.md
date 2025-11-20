@@ -81,13 +81,14 @@
 
 ## 📦 **Open Source Packages**
 
-| Package                | Description                                                                                           | Link                                                                       |
-| ---------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| **Export Builder**     | Build dynamic exports in CSV, Excel, or PDF with queued jobs and large dataset support.               | [Packagist](https://packagist.org/packages/hasanhawary/export-builder)     |
-| **Lookup Manager**     | Centralized management of lookup tables and key-value datasets with dynamic filtering.                | [Packagist](https://packagist.org/packages/hasanhawary/lookup-manager)     |
-| **Media Manager**      | Handle file uploads, image processing, and storage (public/private) in Laravel applications.          | [Packagist](https://packagist.org/packages/hasanhawary/media-manager)      |
-| **Permission Manager** | Role and permission management for Laravel apps with translation support and dynamic access handling. | [Packagist](https://packagist.org/packages/hasanhawary/permission-manager) |
-| **Report Builder**     | Generate dynamic dashboards with charts, tables, and cards for Laravel applications.                  | [Packagist](https://packagist.org/packages/hasanhawary/report-builder)     |
+| Package                | Description                                                                                                 | Link                                                                       |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Dynamic CLI**        | Auto-generate full CRUD modules (Models, Controllers, Requests, Resources, Filters) with unified standards. | [Packagist](https://packagist.org/packages/hasanhawary/dynamic-cli)        |
+| **Export Builder**     | Build queued, chunked, and optimized exports (Excel/CSV) with signed URLs and notification support.         | [Packagist](https://packagist.org/packages/hasanhawary/export-builder)     |
+| **Lookup Manager**     | Centralized retrieval of enums, metadata, and lookup tables with multi-table support and caching.           | [Packagist](https://packagist.org/packages/hasanhawary/lookup-manager)     |
+| **Media Manager**      | Manage file uploads (including chunked uploads), safe delete, signed URLs, and organized storage layers.    | [Packagist](https://packagist.org/packages/hasanhawary/media-manager)      |
+| **Permission Manager** | Full role and permission system with CRUD support, syncing, and API-ready middleware integration.           | [Packagist](https://packagist.org/packages/hasanhawary/permission-manager) |
+| **Report Builder**     | Build dynamic, filterable, sortable reports with API formatting and export integration.                     | [Packagist](https://packagist.org/packages/hasanhawary/report-builder)     |
 
 > Each package is designed to be **developer-friendly, extensible, and production-ready**, with clear documentation and examples.
 
