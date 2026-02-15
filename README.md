@@ -1,5 +1,3 @@
----
-
 # Hassan Elhawary
 
 **Senior Backend Engineer | Backend Team Leader | Laravel Architect**
@@ -194,5 +192,3 @@ Let’s connect.
 
 📫 [hasanhawary1@gmail.com](mailto:hasanhawary1@gmail.com)
 🔗 [https://www.linkedin.com/in/hassan-hawary1/](https://www.linkedin.com/in/hassan-hawary1/)
-
----
