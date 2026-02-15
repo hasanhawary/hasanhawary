@@ -5,7 +5,6 @@
 📍 Cairo, Egypt
 📫 [hasanhawary1@gmail.com](mailto:hasanhawary1@gmail.com)
 🔗 LinkedIn: [https://www.linkedin.com/in/hassan-hawary1/](https://www.linkedin.com/in/hassan-hawary1/)
-🔗 GitHub: [https://github.com/hasanhawary](https://github.com/hasanhawary)
 
 ---
 
